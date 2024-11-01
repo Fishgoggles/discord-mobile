@@ -159,9 +159,7 @@
         "WHITE_500": "#e0def4",
         "WHITE_630": "#908caa"
     },
-        "background": {
-        "alpha": 255,
-        "url": "https://raw.githubusercontent.com/rose-pine/discord-mobile/main/Assets/V06yN.png"
+  
     },
     "plus":{
         "version":"0",
